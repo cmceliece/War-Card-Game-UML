@@ -1,4 +1,4 @@
 War-Card-Game-UML
 =================
 
-UML of my War-style high card game
+Problem Space: function that compares the draw of 1 card each for 2 players. needs a randomization element, either in the draw or the deck.
